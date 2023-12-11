@@ -13,3 +13,5 @@ Things I ❤️, 👷 and contribute:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+⬅️ Am I an emergency power generator? Nope. But Zephir is my scout name. Maybe I'll change the profile picture.
